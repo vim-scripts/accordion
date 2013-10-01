@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4735
+
+Accordion lets you specify a maximum number of vsplits. Extra splits are collapsed to be 1 column wide so that the ones in the current viewport are more readable. When you are on the edge of the viewport and switch windows to one of the collapsed windows, the viewport slides over.
+
+There's also a diff mode that sets the viewport to be two windows wide and diffs the two visible windows against each other.
+
+Please refer to the github repo for example gifs, issues, and more frequent updates: https://github.com/mattboehm/vim-accordion/
